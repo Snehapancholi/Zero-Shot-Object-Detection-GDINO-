@@ -31,10 +31,8 @@ Zero-Shot-Object-Detection-GDINO/
 │
 ├── README.md
 ├── requirements.txt
-├── notebooks/
-│   └── gdino_zero_shot_detection.ipynb
-│
-├── images/
+├── GroundingDino.ipynb
+├── results_groundingdino
 │   ├── input/
 │   └── output/
 │
